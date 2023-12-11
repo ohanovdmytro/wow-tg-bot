@@ -1,0 +1,16 @@
+{
+  "name": "first-tg-bot",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.60.0",
+    "requests": "^0.3.0"
+  }
+}
